@@ -18,6 +18,7 @@ match num:
     case 7:
         print("Saturday")
     case _:
-        print("Invalid input! Please enter a number between 1 and 7.")
+        print("Invalid input  enter a number between 1 and 7")
+
 
 
